@@ -1,5 +1,5 @@
 ![](img.png)
-- 👋 Hi, I’m Mohit Rathore
+<h1 align="center">Hi, I'm Mohit Rathore</h1>
 - 👀 I’m interested in programming and coding
 - 🌱 I'm intersted in Java,C, and C++
 - 🧲 I'm learning about Git and Github
