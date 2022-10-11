@@ -1,3 +1,4 @@
+![](img.png)
 - 👋 Hi, I’m Mohit Rathore
 - 👀 I’m interested in programming and coding
 - 🌱 I'm intersted in Java,C, and C++
