@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on coding and coding compititions
 - 📫 How to reach me ...
 
-  My prfoile always welcomes you !!!
+  My profile always welcomes you !!!
   
  
 <!---
